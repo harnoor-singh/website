@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://harnoor-singh.github.io/website/about/</loc>
+    <lastmod>2024-08-18T00:30:55-02:30</lastmod>
+  </url><url>
+    <loc>https://harnoor-singh.github.io/website/</loc>
+    <lastmod>2024-08-18T00:30:55-02:30</lastmod>
+  </url><url>
+    <loc>https://harnoor-singh.github.io/website/posts/my-first-post/</loc>
+    <lastmod>2024-08-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harnoor-singh.github.io/website/posts/</loc>
+    <lastmod>2024-08-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harnoor-singh.github.io/website/authors/</loc>
+  </url><url>
+    <loc>https://harnoor-singh.github.io/website/categories/</loc>
+  </url><url>
+    <loc>https://harnoor-singh.github.io/website/series/</loc>
+  </url><url>
+    <loc>https://harnoor-singh.github.io/website/tags/</loc>
+  </url>
+</urlset>
