@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Harnoor Singh</title>
-    <link>https://harnoor-singh.github.io/website/</link>
+    <link>https://harnoor.dev/</link>
     <description>Recent content on Harnoor Singh</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 18 Aug 2024 00:30:55 -0230</lastBuildDate>
-    <atom:link href="https://harnoor-singh.github.io/website/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://harnoor.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://harnoor-singh.github.io/website/about/</link>
+      <link>https://harnoor.dev/about/</link>
       <pubDate>Sun, 18 Aug 2024 00:30:55 -0230</pubDate>
-      <guid>https://harnoor-singh.github.io/website/about/</guid>
+      <guid>https://harnoor.dev/about/</guid>
       <description>I am a 4th year Computer Engineering Student at Memorial University of Newfoundland.&#xA;This website is currently under construction.&#xA;Checkout my resume for now.</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>https://harnoor-singh.github.io/website/posts/my-first-post/</link>
+      <link>https://harnoor.dev/posts/my-first-post/</link>
       <pubDate>Sat, 17 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://harnoor-singh.github.io/website/posts/my-first-post/</guid>
+      <guid>https://harnoor.dev/posts/my-first-post/</guid>
       <description>My First Post Link to heading Creating a sample post to check how hugo works.</description>
     </item>
   </channel>
