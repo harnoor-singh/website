@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://harnoor.dev/about/</loc>
-    <lastmod>2024-08-18T00:30:55-02:30</lastmod>
-  </url><url>
     <loc>https://harnoor.dev/</loc>
+    <lastmod>2025-05-23T19:10:24-02:30</lastmod>
+  </url><url>
+    <loc>https://harnoor.dev/about/</loc>
     <lastmod>2024-08-18T00:30:55-02:30</lastmod>
   </url><url>
     <loc>https://harnoor.dev/posts/my-first-post/</loc>
