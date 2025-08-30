@@ -33,7 +33,7 @@ params:
   # # Default share buttons below
   # ShareButtons: ["twitter", "linkedin", "reddit", "facebook", "whatsapp", "telegram", "ycombinator"]
 
-  ShareButtons: ["linkedin", "twitter"]
+  ShareButtons: ["linkedin", "reddit", "facebook", "whatsapp", "twitter"]
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
@@ -78,9 +78,11 @@ params:
         url: tags
 
   # home-info mode
-  homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: I am Harnoor Singh, add details here.
+  # homeInfoParams:
+  #   Title: "Hello World \U0001F44B"
+  #   Content: | 
+  #     I am Harnoor Singh, a computer engineering undergraduate student currently based 
+  #     in St. John's, NL, Canada. This is my personal website, where I write on many topics. [More about me](/about).
 
   socialIcons:
     - name: linkedin
@@ -102,7 +104,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/harnoor-singh/website/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
